@@ -29,6 +29,8 @@ This project aims to address the issue of employee attrition in a company by uti
 ## Dashboard Visualization:
 - **File**: HR_Analytics_Dashboard.pbix
 - **Description**: Interactive dashboard showcasing KPIs, insights, and visualizations to facilitate data-driven decision-making.
+  ![WhatsApp Image 2024-04-03 at 1 21 09 AM](https://github.com/ranausman01/PowerBi_Portfolio_Project3/assets/161476245/d3fc5079-e1da-45da-9005-434fbe91e9de)
+
 
 ## Conclusion:
 This HR analytics dashboard provides valuable insights into employee attrition patterns and associated factors. By leveraging these insights, organizations can develop targeted strategies to improve employee retention, enhance workforce satisfaction, and ultimately drive business success.
